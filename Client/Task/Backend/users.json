@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "y4in",
+      "username": "dinesh",
+      "firstname": "dinesh",
+      "lastname": "kumar",
+      "email": "dinesh@7483gmail.com",
+      "password": "7483"
+    },
+    {
+      "id": "z1ozjitq2",
+      "username": "Sundaresh Sekar",
+      "firstname": "Sundaresh",
+      "lastname": "Sekar",
+      "email": "Sundareshrx7483@gmail.com",
+      "password": "7483"
+    }
+  ]
+}

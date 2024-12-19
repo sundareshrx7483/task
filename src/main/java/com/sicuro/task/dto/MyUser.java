@@ -32,6 +32,10 @@ public class MyUser implements UserDetails {
 	private String email;
 	@Pattern(regexp = "^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[@$!%*?&#])[A-Za-z\\d@$!%*?&#]{6,}$", message = "password must cntain atleast one uppercase,one lowercase,one number and one special character")
 	private String password;
+	
+	
+
+	
 
 	@Override
 	public Collection<? extends GrantedAuthority> getAuthorities() {
